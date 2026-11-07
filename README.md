@@ -1,1 +1,1 @@
-# mmini-kuroko.github.io
+# mminikuroko.github.io
